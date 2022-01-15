@@ -4,11 +4,6 @@ import express from 'express';
 import cors from 'cors';
 import 'reflect-metadata';
 
-const list = '';
-const list2 = [];
-let a = 12;
-let b = 15;
-
 import connectDatabase from './database';
 
 const app = express();
