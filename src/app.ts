@@ -5,6 +5,7 @@ import cors from 'cors';
 import 'reflect-metadata';
 
 const list = '';
+const list2 = [];
 
 import connectDatabase from './database';
 
