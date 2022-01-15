@@ -6,6 +6,7 @@ import 'reflect-metadata';
 
 const list = '';
 const list2 = [];
+let a = 12;
 
 import connectDatabase from './database';
 
